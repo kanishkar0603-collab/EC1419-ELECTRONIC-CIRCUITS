@@ -14,24 +14,22 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="1600" height="946" alt="circuit 1" src="https://github.com/user-attachments/assets/c3d96189-cb22-4030-8063-66cfc3b7d88e" />
+
 
 
 ## MODEL GRAPH
+<img width="1383" height="732" alt="g1" src="https://github.com/user-attachments/assets/76f4e2db-c79b-4901-99af-130196787342" />
 
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+
 
 ## Graph
+<img width="923" height="175" alt="ggg1" src="https://github.com/user-attachments/assets/0432b697-8a6f-42dc-93cf-78c0b50a299f" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
 
-**BANDWIDTH =**
