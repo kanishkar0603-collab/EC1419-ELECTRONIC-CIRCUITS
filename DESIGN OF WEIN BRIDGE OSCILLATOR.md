@@ -8,18 +8,17 @@
 <img width="610" height="426" alt="image" src="https://github.com/user-attachments/assets/42f77f02-6ee4-4029-844c-378198495696" />
 
 ## OSCILLATOR DESIGN
-<img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
-<img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
+<img width="1528" height="1600" alt="951d9f5c-e510-494e-b454-b6734a6e973b" src="https://github.com/user-attachments/assets/97f2fbce-545f-48eb-9793-3e2a01dcef68" />
+<img width="1600" height="1365" alt="98bdceda-7611-4bd9-ba7a-d0e1fbe8eb3b" src="https://github.com/user-attachments/assets/ff60fb8e-6d00-443c-9cbf-743a5cbece77" />
+
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+
+
 
 ## Graph
 
+<img width="1600" height="379" alt="ff3a344c-d918-4f2a-ac61-5e25537a27b9" src="https://github.com/user-attachments/assets/9423d226-22e6-494e-a989-41ab3341129f" />
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-
-Practical frequency of Oscillation =
-
-
-Theoritical Frequency of Oscillation =
