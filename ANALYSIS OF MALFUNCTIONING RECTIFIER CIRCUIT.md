@@ -8,6 +8,8 @@
 <img width="1600" height="904" alt="image" src="https://github.com/user-attachments/assets/09189d33-0dc6-46e6-9aa2-62cc47b86647" />
 
 ## GRAPHS
-<img width="821" height="426" alt="image" src="https://github.com/user-attachments/assets/2d7b2767-8ccc-427d-83f9-e4106f926101" />
+<img width="920" height="1365" alt="graph" src="https://github.com/user-attachments/assets/fe93fe1c-2ea1-4943-8472-1a89abe6fddd" />
+<img width="1732" height="2490" alt="IMG_20260605_102127923" src="https://github.com/user-attachments/assets/b11b78eb-d049-4d53-8886-4e9a8fc59cba" />
+
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
